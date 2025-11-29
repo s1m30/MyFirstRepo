@@ -1,1 +1,2 @@
+What I have learned from this course
 Git is a version control software that was developed by Linus Torvalds. It was initially created to track collaborative changes on Torvald's other project; Linux. It has now become the defacto version control for more than 90% of technology projects in the world.
