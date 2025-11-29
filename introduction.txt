@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+
+My name is Simeon Adebola. I am a Software developer who resides in Lagos, Nigeria. 
+I am currently taking part in the ALX Pathway program in order to study engineering at a higher institution.
